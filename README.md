@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img width=50% height=50% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png"></h1>
+<h1 align="center" id="LivetheCode"><img width=50% height=50% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png" id="LivetheCode"></h1>
 <h1 align="center">🄳🄸🄵🄴🅂🄰 - Women Security App</h1>
 
 
@@ -17,7 +17,7 @@
 ```diff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ```
-> `📌` [Hack-A-Nova](#Hack-A-Nova)<br>
+> `📌` [Live the Code](#LivetheCode)<br>
 >> `📌` [Inspiration](#Inspiration)<br>
 >>> `📌` [Tech Stack](#TechStack)<br>
 >>>> `📌` [Unique Features](#UniqueFeatures)<br>
@@ -73,16 +73,17 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 <br><br><br><br>
 
-<h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
+<h2 align="center" id="DevelopedBy"> :label: Developed By: Team TechFreeks</h2>
 
    - [Apoorv Maheshwari](https://github.com/Apoorv-cloud) 
    - [Stuti Goyal](https://github.com/stuti1402)
    - [Siddharth Samanta](https://github.com/cyber-sid)
+   - [Anuj Maheshwari](https://github.com/dummy-co-der)
    
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 <br><br><br><br>
 
-<p align="center">
+<p align="center" id="LivetheCode">
 
 <h2 align="center" id="ScreenShots"> :label: ScreenShots</h2>
 
